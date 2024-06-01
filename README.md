@@ -61,8 +61,9 @@ In the path below, you can download batocera containing drastic-steward.
     Hotkey + y : Change the theme
     Hotkey + select : Display the original drastic setting screen
     Hotkey + start: Display custom setting screen
+    Hotkey + r1 : Fast Forward
     Hotkey + l1 : exit
-
+    
     l2 : Display touch cursor
     r2 : swap Screen
 
